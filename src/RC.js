@@ -1,4 +1,4 @@
-
+/*
 // код выводит текст
 var mom = {
     sex: prompt("Введите пол Мамы")
@@ -11,7 +11,7 @@ var dad = {
 dad.sex === 'male' && mom.sex==='female'?
    alert('they can have a baby')
     :alert('they cant have a baby');
-
+*/
 
 /*
 let b = Math.random() * 5 - 2
@@ -29,7 +29,6 @@ function count () {
     console.log('Конечное число '+c.toFixed(3));
     }
 count();
+
 */
-
-
 
